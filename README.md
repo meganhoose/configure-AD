@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create additional users and attempt to login to Client VM with one of the users
 
 
-<h2>Installation Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 1. Create Domain Controller VM and Client VM in Azure
 
